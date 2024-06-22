@@ -1,0 +1,1 @@
+ built a multilingual speech recognition model using a pre-trained model like Multilingual Whisper, and then integrate it with a Retrieval-Augmented Generation (RAG) model
